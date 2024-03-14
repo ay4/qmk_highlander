@@ -19,3 +19,6 @@
 #pragma once
 
 #define ORYX_CONFIGURATOR
+#define RGBLIGHT_SPLIT
+#define SPLIT_LAYER_STATE_ENABLE
+#define HOLD_ON_OTHER_KEY_PRESS
